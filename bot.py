@@ -37,7 +37,7 @@ class DePINed:
         {Fore.GREEN + Style.BRIGHT}Auto Ping {Fore.BLUE + Style.BRIGHT}Depined Bot
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}Airdrop Seeker
+        {Fore.GREEN + Style.BRIGHT}Join {Fore.YELLOW + Style.BRIGHT}Airdrop Seeker
             """
         )
 
