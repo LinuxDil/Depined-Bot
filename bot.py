@@ -139,7 +139,7 @@ class DePINed:
             try:
                 print("1. Run With Monosans Proxy")
                 print("2. Run With Private Proxy")
-                print("3. Run Without Proxy")
+                print("3. Run Without Proxy/mandiri")
                 choose = int(input("Choose [1/2/3] -> ").strip())
 
                 if choose in [1, 2, 3]:
